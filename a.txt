@@ -13,3 +13,8 @@ git add .
 3. git status -> git commit -m "add new directory and files"
 4. git log
 
+Q3:
+1. git remote add origin git@github.com:keithl93/test.git
+git branch -M main
+git push -u origin main
+2. 
