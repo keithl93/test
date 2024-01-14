@@ -1,1 +1,15 @@
 Git is good
+Q1:
+1. mkdir test -> git init
+2. echo "Git is good" > a.txt
+3. git status 
+4. git add . -> git commit -m "homework" -> git status
+
+Q2:
+1. mkdir subtest -> echo "homework" > b.txt
+2. echo "content for a1" > a1.txt
+echo "content for a2" > a2.txt
+git add .
+3. git status -> git commit -m "add new directory and files"
+4. git log
+
