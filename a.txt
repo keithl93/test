@@ -22,4 +22,6 @@ git push -u origin main
 4. git push origin main
 
 Q4:
- 
+1. git restore --staged a.txt
+2. git commit 0m "modified a.txt"
+git reset HEAD a.txt 
